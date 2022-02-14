@@ -100,7 +100,7 @@ code, pre{
 
 .showcase .grid{
     grid-template-columns: 38% 62%;
-    overflow: hidden;
+    /* overflow: hidden; */
     gap: 30px;
 }
 

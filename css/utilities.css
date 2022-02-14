@@ -4,7 +4,7 @@
     margin: 0 auto;
     /* overflow: auto; */
     padding: 0 40px;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .card{
     background-color: #fff;
